@@ -1,0 +1,70 @@
+[33mcommit f46a6da4333b6d65eac01d2aa6ed2a5c1491a8b9[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: HEZR0N <hezron.perez@my.utsa.edu>
+Date:   Wed Feb 23 14:00:57 2022 -0600
+
+    Added println in TravelDestination file
+
+[33mcommit 4a80c09135667cf470ba034d2c43b912169a0c49[m
+Merge: 2b4c832 3531d19
+Author: AlphaOmegaBetaSin <97542443+AlphaOmegaBetaSin@users.noreply.github.com>
+Date:   Wed Feb 23 13:48:29 2022 -0600
+
+    Merge pull request #4 from heena3443/yct482-Lab3FirstCommitEdits
+    
+    Nikhil added to TravelDestination.java
+
+[33mcommit 3531d19c4e9647524870d1755e5827b1874fdf9d[m[33m ([m[1;31morigin/yct482-Lab3FirstCommitEdits[m[33m)[m
+Author: Nikhil <nikhil.kapoor@my.utsa.edu>
+Date:   Wed Feb 23 12:35:21 2022 -0600
+
+    Nikhil added to TravelDestination.java
+
+[33mcommit 2b4c832d30a6b1430be6c7e748be31c5dd3fd3e7[m
+Author: Peter Banh <peter.banh@my.utsa.edu>
+Date:   Tue Feb 22 22:05:00 2022 -0600
+
+    Added new line to Travel Destination
+
+[33mcommit 89375ff57c7963f77544153eb3c2ed1bf4f5d71e[m
+Merge: 7d7fb4f eb165a1
+Author: ashleydmi <99779450+ashleydmi@users.noreply.github.com>
+Date:   Tue Feb 22 21:00:47 2022 -0600
+
+    Merge pull request #3 from heena3443/low284-Lab3FirstCommitEdits
+    
+    Added personal print statement
+
+[33mcommit eb165a17dbf399a365161fee34ce46743415908c[m
+Author: ashleydmi <99779450+ashleydmi@users.noreply.github.com>
+Date:   Tue Feb 22 20:51:08 2022 -0600
+
+    Added personal print statement
+
+[33mcommit 7d7fb4f2fe39b42ba7161c86cef0063eeaacffa2[m[33m ([m[1;31morigin/dhn946-Lab3FirstCommitEdits[m[33m)[m
+Merge: a8c659d 03936dc
+Author: tetra22 <99708941+tetra22@users.noreply.github.com>
+Date:   Sat Feb 19 10:38:21 2022 -0600
+
+    Merge pull request #1 from heena3443/bll042-Lab3FirstCommitEdits
+    
+    Updated TravelDestination.java
+
+[33mcommit 03936dc10be3c4b9f9188d1e2386a10643d19ade[m
+Author: tetra22 <99708941+tetra22@users.noreply.github.com>
+Date:   Sat Feb 19 10:26:43 2022 -0600
+
+    Updated TravelDestination.java
+    
+    Added new print statement to the end of main() function.
+
+[33mcommit a8c659dd5e84cccb349f9919bf99076fd9274527[m
+Author: heena3443 <61155560+heena3443@users.noreply.github.com>
+Date:   Tue Feb 15 10:10:06 2022 -0600
+
+    Create README.md
+
+[33mcommit b19737c743f5f1f7ba8d7a28bb1d07bd5496378b[m
+Author: Heena Rathore <heena.rathore@utsa.edu>
+Date:   Tue Feb 15 10:09:31 2022 -0600
+
+    first commit by Heena
