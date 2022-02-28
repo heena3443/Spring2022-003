@@ -4,6 +4,7 @@ public class TravelDestination {
 	public static void main(String[] args) {
 				System.out.println("My name is Heena Rathore. I wish to travel to Hawaii one day !");
 				System.out.println("My name is Hunter Drummond. I wish to travel to Japan one day !");
+				System.out.println("My name is Mateo Rivas I wish to travel to Germany one day !");
 				System.out.println("My name is Ashley Domansi. I wish to travel to Greece one day !");
 				System.out.println("My name is Peter Banh. I wish to travel to Paris one day !");
 				System.out.println("My name is Nikhil Kapoor. I wish to travel to Egypt one day !");
@@ -25,6 +26,7 @@ public class TravelDestination {
 				System.out.println("My name is Bianca Ortiz. I wish to travel to Iceland one day !");
 				System.out.println("My name is Michael Obi. I wish to travel to Spain one day !");
 				System.out.println("My name is Ahmet Bilici. I wish to travel to Ireland one day !");
+      
 	}
 
 }
